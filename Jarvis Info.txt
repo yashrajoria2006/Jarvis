@@ -1,0 +1,22 @@
+hello before getting into the deep download two things which is very important 
+      1:python
+      2:visual studio code
+      
+
+follow this steps to make Jarvis without an ERROR
+
+STEP 1:        create a folder anywhere
+STEP 2:        go into the folder and backspace the loction 
+STEP 3:        type cmd on location bar
+STEP 4:        after opening cmd type [code .] in cmd
+STEP 5:        after typing this you see visual studio code is open for you with your folder
+STEP 6:        in the visual studio code you folder is showing then create a new file in your foldre {{YOURFILENAME.py}} [[.py]] is very important to make a python file
+STEP 7:        then install all the modules [modules links are given in description box in my video]
+STEP 8:        after installing all modules import all the modules in your jarvis
+STEP 9:        then type your code which i provided with the file
+        
+        
+
+Hope you all like my video and if you like my video please suscribe my Youtube channel 
+Thanks For Watching,
+        
